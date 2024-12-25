@@ -1,0 +1,2 @@
+The sum = 541
+The mean = 49.1818

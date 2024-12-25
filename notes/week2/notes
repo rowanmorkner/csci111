@@ -1,0 +1,22 @@
+everything in computer science can be made if you know 3 concepts:
+-Variables
+-repetition
+-selection
+
+C++ - strongly typed language 
+    types - special keywords that indicate something is a specific type 
+    variables - lots of different types
+    categories of types
+        numbers
+            int -/+
+            floating point - fractional numbers - "float"
+            unsigned only positive can go twice as long 
+            double
+        other
+            char - only one character 
+            string - 0 or more characters 
+                1 - int
+                '1' - char
+                "1" string
+            bool - true or false
+            s
